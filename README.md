@@ -28,20 +28,7 @@ Users can input two values through a web interface, submit the form, and the app
 
 ## 🖼️ Screenshots
 
-Add your screenshots inside a folder called **screenshots**.
 
-Example:
-
-```
-screenshots/
-│
-├── home-page.png
-└── result-page.png
-```
-
-Display them here:
-
-```markdown
 ### Home Page
 
 ![Home Page](screenshots/home-page.png)
@@ -50,7 +37,7 @@ Display them here:
 ### Result Page
 
 ![Result Page](screenshots/result-page.png)
-```
+
 
 ---
 
